@@ -9,25 +9,25 @@
 
 
 ## Git commands
-'''bash
+```bash
 git add .
 
 git commit -m "Update"
 
 git push -u origin main
-'''
+```
 
 
 ## How to run?
 
-'''bash
+```bash
 conda create -n visa python == 3.8 -y
-'''
+```
 
-'''bash
+```bash
 onda activate visa
-'''
+```
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
