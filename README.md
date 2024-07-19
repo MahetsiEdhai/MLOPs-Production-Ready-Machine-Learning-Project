@@ -5,6 +5,7 @@
 - Git: https://git-scm.com/
 - FlowChart: https://whimsical.com
 - MLOPs Tool: https://www.evidentlyyai.com
+- MongoDB: https://account.mongodb.com/account/login
 
 
 
