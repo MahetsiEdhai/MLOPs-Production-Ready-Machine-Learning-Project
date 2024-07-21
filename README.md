@@ -6,6 +6,7 @@
 - FlowChart: https://whimsical.com
 - MLOPs Tool: https://www.evidentlyyai.com
 - MongoDB: https://account.mongodb.com/account/login
+- Data link: https://www.kaggle.com/datasets/moro23/easyvisa-dataset?resource=download
 
 
 
