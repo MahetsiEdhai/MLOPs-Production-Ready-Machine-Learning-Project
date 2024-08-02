@@ -33,3 +33,19 @@ onda activate visa
 ```bash
 pip install -r requirements.txt
 ```
+
+## Workflow:
+
+1. Constants
+2. Entity
+3. Components
+4. pipline 
+
+
+
+### Export the environments variable en bash, para windows desde editar variables de entorno del sistema
+```bash
+
+
+export MONGODB_URL = "mongodb+srv://<username>:<password>...."
+```
